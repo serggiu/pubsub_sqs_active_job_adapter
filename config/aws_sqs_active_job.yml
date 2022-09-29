@@ -1,0 +1,3 @@
+# config/aws_sqs_active_job.yml
+queues:
+  default: 'https://amazon-sqs-url'
